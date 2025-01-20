@@ -1,9 +1,12 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
+const accountId = 123456
+let accountEmail = "sultan@domain.com"
+var accountPassword = "password123"
+accountCity = "motihari"
 let accountState;
 
+const myName = "sultan alam"
+console.log(myName);
+let myEmail
 // accountId = 2 // not allowed
 
 
