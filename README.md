@@ -62,7 +62,7 @@ This syllabus provides a structured outline to learn JavaScript, covering both b
    - Callbacks
    - Promises
    - `async`/`await`
-   - Working with `fetch` API
+   - Working with `fetch` API and
    - Error Handling in Async Code
 
 6. **Advanced JavaScript**
