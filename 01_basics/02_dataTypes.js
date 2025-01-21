@@ -37,7 +37,7 @@ let uniqueId = Symbol("id"); // symbol
 
 // object
 let user = {
-    name: "Hitesh",
+    name: "sultan Alam",
     age: 18,
     isLoggedIn: false
 }; // object
