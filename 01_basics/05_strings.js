@@ -33,3 +33,11 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('sundar'))
 
 console.log(gameName.split('-'));
+
+// Interview Question: What is the difference between `substring` and `slice` in JavaScript?
+// Answer: 
+// `substring(start, end)` extracts characters from `start` index up to but not including `end` index. 
+// If `end` is omitted, it extracts till the end of the string. It does not accept negative indices.
+// `slice(start, end)` extracts characters from `start` index up to but not including `end` index. 
+// If `end` is omitted, it extracts till the end of the string. It accepts negative indices, 
+// which count from the end of the string.

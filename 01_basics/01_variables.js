@@ -1,24 +1,22 @@
-const accountId = 123456
-let accountEmail = "sultan@domain.com"
-var accountPassword = "password123"
-accountCity = "motihari"
-let accountState;
-
-const myName = "sultan alam"
-console.log(myName);
-let myEmail
-// accountId = 2 // not allowed
-
-
-accountEmail = "hc@hc.com"
-accountPassword = "21212121"
-accountCity = "Bengaluru"
-
-console.log(accountId);
-
 /*
-Prefer not to use var
+variable in javascript 
+there is two type of variable
+1> const
+with help of "const"keyword we can declare it 
+const myName = "sultan Alam"
+2> variable 
+in variable we can decalare in two way 
+
+var -> var myName = "salman khan"
+let -> let myAge = 21
+
+but  we are not useing var 
 because of issue in block scope and functional scope
+*/
+/* displaying the vaiable
+1 -> console.log("string " valu ) 
+2 -> console.table([myName,myAge])
+
 */
 
 
